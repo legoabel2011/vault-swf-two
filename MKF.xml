@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+<ModulePrefs title="" />
+<Content type="html"><![CDATA[
+
+<object xmlns="http://www.w3.org/1999/xhtml" 
+data="https://cdn.jsdelivr.net/gh/legoabel2011/vault-swf-two@main/Mario%20Kart%20Flash.swf" 
+height="100%" type="application/x-shockwave-flash" width="100%"><param name="movie" value="" />
+</object>
+<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+<script src="https://the-tests-swfs.s3.amazonaws.com/jquery.min.js"></script>
+
+]]></Content>
+</Module>
